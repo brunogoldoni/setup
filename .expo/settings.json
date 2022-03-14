@@ -6,5 +6,5 @@
   "urlRandomness": "3e-5wc",
   "https": false,
   "scheme": null,
-  "devClient": true
+  "devClient": false
 }
