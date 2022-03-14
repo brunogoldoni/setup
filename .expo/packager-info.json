@@ -1,5 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19000
+  "expoServerPort": 8081,
+  "packagerPort": 8081,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://3e-5wc.anonymous.setup.exp.direct",
+  "packagerNgrokUrl": "https://3e-5wc.anonymous.setup.exp.direct",
+  "ngrokPid": 5515,
+  "webpackServerPort": null
 }
