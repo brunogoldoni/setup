@@ -1,0 +1,2 @@
+# setup
+React Native project
